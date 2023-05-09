@@ -1,0 +1,6 @@
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.exe
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.pdb
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.exe
+/home/henrique_medeiros/RiderProjects/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.pdb
